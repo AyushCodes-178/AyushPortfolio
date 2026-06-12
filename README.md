@@ -11,7 +11,7 @@ A personal portfolio website built from scratch using HTML and CSS.
   - Custom UI design
 
 - Projects Page
-  - Unreal Engine game development projects
+  - **Unreal Engine game development** projects
   - Canva design projects (Posters & PPTs)
   - Project previews and descriptions
 
