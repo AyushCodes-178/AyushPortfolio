@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(22, 3, 24);
+}
+div h3{
+    font-size: 60px;
+    color: bisque;
+    font-family: Lobster Two, cursive;
+}
+div h4{
+    color: #A88860;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#unr{
+    background-color:azure;
+    border-radius: 20px;
+    border-style: double;
+    border-color:  #59472b;
+    border-width: 5px;
+    padding: 10px 10px 10px 10px;
+}
+#unr:hover{
+    background-color: rgb(29, 28, 28);
+}
+#cnv{
+     background-color:azure;
+    border-radius: 20px;
+    border-style: double;
+    border-color:  #59472b;
+    border-width: 5px;
+    padding: 10px 10px 10px 10px;
+}
+#cnv:hover{
+    background-color: rgb(9, 50, 134);
+}
+#mnpg{
+    margin-top: 20px;
+    border-color: aliceblue;
+    border-width: 3px;
+    border-style: double;
+    padding: 2px 2px 2px 2px;
+}
+
+#mnpg p{
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: left;
+    color:bisque;
+    font-size: 25px;
+}

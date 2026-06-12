@@ -1,0 +1,74 @@
+main{
+    background-color: rgb(26, 5, 10);
+    border-color:aliceblue;
+     border-width: 5px;
+    border-style: double;
+    padding: 5px 5px 5px 5px;
+}
+main h3{
+    text-align: center;
+     font-size: 60px;
+    color: bisque;
+    font-family: Lobster Two, cursive;
+}
+#first{
+    background-color: #111111;
+    padding: 5px 5px 5px 5px;
+    border-radius: 20px;
+    border-color: #59472b;
+    border-style: double;
+}
+#first h4{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #604d2e;
+}
+#first p{
+
+    text-align: center;
+    color: aliceblue;
+    font-size:larger;
+}
+#first video{
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-style: double;
+    border-color:  #59472b;
+    border-width: 2px;
+}
+
+#sec{
+    background-color: #111111;
+    padding: 5px 5px 5px 5px;
+    border-radius: 20px;
+    border-color: #59472b;
+    border-style: double;
+}
+#sec h4{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #604d2e;
+}
+#sec p{
+
+    text-align: center;
+    color: aliceblue;
+    font-size:larger;
+}
+#sec video{
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-style: double;
+    border-color:  #59472b;
+    border-width: 2px;
+}
+
+p{
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: left;
+    color:bisque;
+    font-size: 25px;
+}
