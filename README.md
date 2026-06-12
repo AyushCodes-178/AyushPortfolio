@@ -31,7 +31,7 @@ This project was created from scratch as part of my web development learning jou
 
 ## Live Demo
 
-(Add your GitHub Pages link here after deployment)
+(https://ayushcodes-178.github.io/AyushPortfolio/)
 
 ## Author
 
